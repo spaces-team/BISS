@@ -1,0 +1,29 @@
+#mappa {
+    width: 98%;
+    height: 400px;
+}
+
+th {
+    background: #add163 none repeat scroll 0 0;
+    border-color: #c4de8f #93c138 #93c138 #c4de8f;
+    border-style: solid;
+    border-width: 1px;
+    color: #fff;
+    height: 38px;
+    padding-left: 12px;
+    padding-right: 12px;
+    text-align: left;
+}
+
+td {
+    border: 1px solid #e7f0cc;
+    padding-left: 11px;
+    padding-right: 11px;
+}
+
+#office-carousel {
+    margin-top: 50px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 50px;
+}
