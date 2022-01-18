@@ -7,4 +7,6 @@ In addition to introducing students to timely research topics, the school is mea
 BISS events are held in the University Residential Center located in the small medieval hilltop town of Bertinoro. 
 This town is in Emilia Romagna about 50km east of Bologna at an elevation of 230m above sea level.
 
-We use `master` as a "landing" branch. The actual editions correspond to the other branches. Create new branches to generate a new year's edition at [https://cs.unibo.it/BISS/](https://cs.unibo.it/BISS/)year
+We use `master` as a "landing" branch. The actual editions correspond to the other branches. 
+
+Create new branches to generate a new year's edition, e.g., branch `2022` corresponds to [https://cs.unibo.it/BISS/2022](https://cs.unibo.it/BISS/2022).
