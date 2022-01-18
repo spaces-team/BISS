@@ -1,0 +1,10 @@
+[Unit] 
+Description=Pull the BISS repo
+
+[Timer]
+OnCalendar=*-*-* *:00,10,20,30,40,50:00 
+Unit=pull_BISS.service 
+Persistent=true
+
+[Install] 
+WantedBy=timers.target
