@@ -27,3 +27,7 @@ td {
     padding-right: 40px;
     padding-top: 50px;
 }
+
+p {
+    text-align: justify;
+}
